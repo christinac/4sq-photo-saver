@@ -1,0 +1,1 @@
+Photos will be saved, in jpg format, in this directory, named after their foursquare checkin ID.
